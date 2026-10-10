@@ -1,0 +1,18 @@
+# Dataset (re-download with: python download_data.py)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyTorch cache
+torch_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
